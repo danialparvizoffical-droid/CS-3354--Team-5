@@ -1,0 +1,22 @@
+Personal finance manager
+1.1 Account management
+	1.1.1 Create and manage user accounts
+	1.1.2 Edit and delete financial accounts
+	1.1.3 View account balances
+
+1.2 Income and Expense Management
+1.2.1 Add income transactions
+1.2.2 Add expense transactions
+1.2.3 Edit and delete transactions
+1.2.4 Categorize income and expenses
+1.2.5 Search transactions by date, category, and keyword
+
+1.3 Budget Management
+1.3.1 Create monthly budgets
+1.3.2 Set spending limits 
+1.3.3 Track budget progress
+
+1.4 Report
+1.4.1 View monthly income and expense summary
+1.4.2 Generate spending reports by category
+
